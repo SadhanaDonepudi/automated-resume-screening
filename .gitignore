@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/*.csv
+models/*.joblib
+*.egg-info/
+.venv/
+.ipynb_checkpoints/
